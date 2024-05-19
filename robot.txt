@@ -1,0 +1,24 @@
+User-agent: Mediapartners-Google
+Disallow:
+
+#below lines control all search engines, and blocks all search, archive and allow all blog posts and pages.
+
+User-agent: *
+Disallow: /search*
+Disallow: /20*
+Allow: /*.html
+Disallow: ez3k.lovestoblog.com
+Allow: /
+
+#sitemap of the blog
+
+Sitemap: https://www.claudedaycare.com/feeds/posts/default?orderby=UPDATED
+Sitemap: https://www.claudedaycare.com/sitemap.xml
+Sitemap: https://www.claudedaycare.com/sitemap-pages.xml
+Sitemap: https://www.claudedaycare.com/atom.xml?redirect=false&start-index=1&max-result=500
+Sitemap: https://www.claudedaycare.com/atom.xml?redirect=false&start-index=501&max-result=500
+Sitemap: https://www.claudedaycare.com/atom.xml?redirect=false&start-index=1001&max-result=500
+
+#sitemap of the blog - search-console - developers.google.com - ez3k
+
+#disqus mediapartners disqus.com,
