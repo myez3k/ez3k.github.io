@@ -12,12 +12,12 @@ Allow: /
 
 #sitemap of the blog
 
-Sitemap: https://www.claudedaycare.com/feeds/posts/default?orderby=UPDATED
-Sitemap: https://www.claudedaycare.com/sitemap.xml
-Sitemap: https://www.claudedaycare.com/sitemap-pages.xml
-Sitemap: https://www.claudedaycare.com/atom.xml?redirect=false&start-index=1&max-result=500
-Sitemap: https://www.claudedaycare.com/atom.xml?redirect=false&start-index=501&max-result=500
-Sitemap: https://www.claudedaycare.com/atom.xml?redirect=false&start-index=1001&max-result=500
+Sitemap: https://ez3k.github.io/feeds/posts/default?orderby=UPDATED
+Sitemap: https://ez3k.github.io/sitemap.xml
+Sitemap: https://ez3k.github.io/sitemap-pages.xml
+Sitemap: https://ez3k.github.io/atom.xml?redirect=false&start-index=1&max-result=500
+Sitemap: https://ez3k.github.io/atom.xml?redirect=false&start-index=501&max-result=500
+Sitemap: https://ez3k.github.io/atom.xml?redirect=false&start-index=1001&max-result=500
 
 #sitemap of the blog - search-console - developers.google.com - ez3k
 
